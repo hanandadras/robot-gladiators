@@ -17,3 +17,6 @@ console.log(enemyNames.length);
 var fight = function(enemyNames) {
     ...//fight function statements
   }
+
+
+  v
